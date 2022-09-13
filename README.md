@@ -12,7 +12,7 @@ The ```Advanced Chat Server``` is a console based implementation of chat server 
 
 ## DESCRIPTION
 - Both the components uses Server IP address and server defined 5 digit PORT number to connect 2 or more clients together.
-- In both the components client and server can work on same system or can work on ```two or more systems``` too!! (For eg: One PC ay act as server and 2 other PCs may act as client!!)
+- In both the components client and server can work on same system or can work on ```two or more systems``` too!! (For eg: One PC may act as server and 2 other PCs may act as client!!)
 - Use of tkinter for GUI application for real time experience.
 - User can also choose their own username when they come to the chat window.
 
