@@ -8,7 +8,7 @@ This project is divided into 2 individual components :-
 
 The ```GUI Chat Server``` is a simple GUI implementation of chat server which uses Socket programming technique. It also allows to transfer a simple text file from client to client. All the operations from the client are notified to server.
 
-The ```Advanced Chat Server``` is a console based implementation of chat server wherein, the admin(server) can ban or remove an user in the chat room. Also details in this regard will be stored in a text file.
+The ```Advanced Chat Server``` is a console based implementation of chat server wherein, the admin(server) can ban or remove a user in the chat room. Also details in this regard will be stored in a text file.
 
 ## DESCRIPTION
 - Both the components uses Server IP address and server defined 5 digit PORT number to connect 2 or more clients together.
